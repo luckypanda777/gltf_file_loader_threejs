@@ -1,1 +1,6 @@
-# gltf_file_loader_threejs
+Diagram Editor - created by SuperCoder
+
+How to start : 
+
+yarn install
+yarn start
